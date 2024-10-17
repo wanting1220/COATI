@@ -13,7 +13,7 @@ requirements = [
     "pytorch-ignite",
     "seaborn",
     "altair",
-    "rdkit-pypi",  # maybe switch to official rdkit?
+    "rdkit",  # maybe switch to official rdkit?
     "pandas>1.0",
     "jupyter",
     "matplotlib",
